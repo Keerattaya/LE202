@@ -29,7 +29,7 @@
 ### example 3
  ใช้โปรแกรม 03-output-port ส่วนsetupทำหน้าที่ set port 0เป็น port outputส่วนloop ทำซ้ำทุกๆ0.5วินาทีแล้วนับcountไปเรื่อยๆcountเป็นเลขคี่LEDจะติดเมื่อcountเป็นเลขคู่LEDจะดับ
 จากนั้นup loadโปรแกรมเข้าmicrocontrollerเสียบผ่านadapterต่อสายport 0 และport1 ที่ต่อกับLED ที่เสียบผ่นUSB to serial
-### replay
+### relay
  เป็นการทดลองที่ทำต่อจาก example 3 ที่ส่งสัญญาณผ่าน port 0 ไปยังหลอดไฟทำให้ไฟกระพริบ แต่จะเพิ่มอุปกรณ์อีก1ชิ้นคือ relay โดยมีmicrocontrollerมาควบคุม
 สัญญาณonคือเปิดสวิตซ์ สัญญาณoffคือปิดสวิตซ์ ในทุกๆ 0.5วินาที โดยเอาrelayไปต่อกับไฟเลี้ยงให้relayทำงาน
 ### example 4
