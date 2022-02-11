@@ -6,12 +6,12 @@
 ประกอบด้วยอินเทอร์เฟซแบบแอนะล็อกและดิจิทัล เช่น NFC-A, ADC,Full-speed 12 Mbps USB 2.0,High-speed 32 MHz SPI 
 
 ที่มา https://th.rs-online.com/web/p/system-on-chips/1946360
-## ATmega1608
+## ATmega4808
 เป็นไมโครคอนโทรลเลอร์ที่มีโปรเซสเซอร์ AVR® 8บิต ทำงานได้ในช่วงอุณหภูมิ-40องศา ถึง85อาศา ช่วงแรงดันจ่ายไฟ1.8Vถึง 5.5V
 จำนวนอุปกรณ์ขาเข้า/ขาออก:27 จำนวนแชนแนลของตัวแปลงอนาล็อกเป็นดิจิตอล (ADC):12 Channel
-ความเร็ว20 MHz RAM 2 kB ROM 256 B ประเภทอินเตอร์เฟส:I2C, SPI, UART ราคา 42บาท
+ความเร็ว20 MHz RAM 6 kB ROM 256 B ประเภทอินเตอร์เฟส:I2C, SPI,UART/USART ราคา 56บาท
 
-ที่มา https://th.mouser.com/ProductDetail/Microchip-Technology/ATMEGA1608-MF?qs=vLWxofP3U2wrGHNpg2PmSQ%3D%3D
+ที่มา https://www.digikey.co.th/th/products/detail/microchip-technology/ATMEGA4808-AUR/10445000
 ## ESP8266
 ป็นชื่อเรียกของชิฟของโมดูล ESP8266 สำหรับติดต่อสื่อสารบนมาตรฐาน WiFi ทำงานได้ในช่วงอุณหภูมิ-40องศา ถึง125อาศา ทำงานที่แรงดันไฟฟ้า 3.0-3.6V
 ความเร็ว 160MHz RAM 50kB ประเภทอินเตอร์เฟส:	ADC, GPIO, I2C, I2S, SDIO, SPI, UART ราคา 56บาท
