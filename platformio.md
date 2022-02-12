@@ -2,7 +2,7 @@
 ### 1.ติดตั้งโปรแกรม git
       https://git-scm.com/download/win
 ### 2.เปิด command prompt รันคำสั่ง
-      git clone https://github.com/choompol-boonmee/iotset1.git
+git clone https://github.com/choompol-boonmee/iotset1.git
 ### 3.รันคำสั่ง 
 pip install -U platformio
 ### 4.รันคำสั่ง 
